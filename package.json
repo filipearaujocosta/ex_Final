@@ -1,0 +1,17 @@
+{
+  "name": "ex_final",
+  "version": "1.0.0",
+  "description": "Desafio de Criar uma App do Zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "save": "^2.3.2"
+  }
+}
