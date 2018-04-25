@@ -11,7 +11,6 @@ consign({
     verbose: false,
     extensions: [ '.js', '.json', '.node' ]   
   })
-  .include('infra')
   .then('routes')
   .into(app);  
 

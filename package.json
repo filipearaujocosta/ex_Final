@@ -2,7 +2,7 @@
   "name": "ex_final",
   "version": "1.0.0",
   "description": "Desafio de Criar uma App do Zero",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app"
   },
@@ -14,5 +14,4 @@
     "express": "^4.16.3",
     "save": "^2.3.2"
   }
-  
 }
