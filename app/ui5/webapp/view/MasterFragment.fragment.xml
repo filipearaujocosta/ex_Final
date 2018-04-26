@@ -1,0 +1,117 @@
+<core:FragmentDefinition
+    xmlns="sap.m"
+    xmlns:core="sap.ui.core" >
+
+    <GenericTile id="gTile1" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+    <GenericTile id="gTile2" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+    
+    <GenericTile id="gTile3" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+    <GenericTile id="gTile4" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+    <GenericTile id="gTile5" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+    <GenericTile id="gTile6" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+    <GenericTile id="gTile7" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+    <GenericTile id="gTile8" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+    <GenericTile id="gTile9" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+    <GenericTile id="gTile10" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+    <GenericTile id="gTile11" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+    <GenericTile id="gTile12" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+    <GenericTile id="gTile13" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+    <GenericTile id="gTile14" header="Vaga: Disponível" press="onPress" subheader="Motorista: "
+        headerImage="https://i.ytimg.com/vi/9tNufqp1my0/maxresdefault.jpg"
+        class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout">
+        <TileContent>
+			<ImageContent src="sap-icon://border" />
+		</TileContent>
+    </GenericTile>
+
+</core:FragmentDefinition>
